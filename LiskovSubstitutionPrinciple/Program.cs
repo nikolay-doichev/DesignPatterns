@@ -41,7 +41,7 @@
     }
     public class Program
     {
-        static public int Area(Rectangle r) => r.Width * r.Height;
+        public static int Area(Rectangle r) => r.Width * r.Height;
 
         static void Main(string[] args)
         {
