@@ -25,11 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder", "Builder\Builder.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderIneritance", "BuilderIneritance\BuilderIneritance.csproj", "{6E84A359-4174-49E4-8377-E25BB9D9D8AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepwiseBuilder", "StepwiseBuilder\StepwiseBuilder.csproj", "{3B068D1D-F619-48B5-95DC-D5501D97FD1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StepwiseBuilder", "StepwiseBuilder\StepwiseBuilder.csproj", "{3B068D1D-F619-48B5-95DC-D5501D97FD1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalBuilder", "FunctionalBuilder\FunctionalBuilder.csproj", "{D846F53D-3B73-4CD5-9D9C-105C94EBD5DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalBuilder", "FunctionalBuilder\FunctionalBuilder.csproj", "{D846F53D-3B73-4CD5-9D9C-105C94EBD5DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacetedBuilder", "FacetedBuilder\FacetedBuilder.csproj", "{5438D4D1-655C-4FC9-BDA1-9EFD6AF67827}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacetedBuilder", "FacetedBuilder\FacetedBuilder.csproj", "{5438D4D1-655C-4FC9-BDA1-9EFD6AF67827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseBuilderPattern", "ExerciseBuilderPattern\ExerciseBuilderPattern.csproj", "{50B34CA1-30FB-49BE-8195-5C62051DE4C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,6 +79,10 @@ Global
 		{5438D4D1-655C-4FC9-BDA1-9EFD6AF67827}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5438D4D1-655C-4FC9-BDA1-9EFD6AF67827}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5438D4D1-655C-4FC9-BDA1-9EFD6AF67827}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B34CA1-30FB-49BE-8195-5C62051DE4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B34CA1-30FB-49BE-8195-5C62051DE4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B34CA1-30FB-49BE-8195-5C62051DE4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B34CA1-30FB-49BE-8195-5C62051DE4C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -92,6 +98,7 @@ Global
 		{3B068D1D-F619-48B5-95DC-D5501D97FD1A} = {ADC8FC22-7A22-4854-B98E-9360272FC4F2}
 		{D846F53D-3B73-4CD5-9D9C-105C94EBD5DE} = {ADC8FC22-7A22-4854-B98E-9360272FC4F2}
 		{5438D4D1-655C-4FC9-BDA1-9EFD6AF67827} = {ADC8FC22-7A22-4854-B98E-9360272FC4F2}
+		{50B34CA1-30FB-49BE-8195-5C62051DE4C1} = {ADC8FC22-7A22-4854-B98E-9360272FC4F2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {357E2150-328E-448E-BC64-D22FC3B67466}
