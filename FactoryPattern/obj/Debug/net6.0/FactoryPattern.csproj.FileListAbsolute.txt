@@ -1,0 +1,15 @@
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/bin/Debug/net6.0/FactoryPattern
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/bin/Debug/net6.0/FactoryPattern.deps.json
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/bin/Debug/net6.0/FactoryPattern.runtimeconfig.json
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/bin/Debug/net6.0/FactoryPattern.dll
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/bin/Debug/net6.0/FactoryPattern.pdb
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.AssemblyReference.cache
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/obj/Debug/net6.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfo.cs
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/obj/Debug/net6.0/FactoryPattern.dll
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/obj/Debug/net6.0/refint/FactoryPattern.dll
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/obj/Debug/net6.0/FactoryPattern.pdb
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/obj/Debug/net6.0/FactoryPattern.genruntimeconfig.cache
+/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/obj/Debug/net6.0/ref/FactoryPattern.dll
