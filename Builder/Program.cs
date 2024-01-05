@@ -9,7 +9,7 @@ class HtmlBuilder
 
     public HtmlBuilder(string rootName)
     {
-        this.rootName = this.rootName;
+        this.rootName = rootName;
         this.root.Name = rootName;
     }
 
