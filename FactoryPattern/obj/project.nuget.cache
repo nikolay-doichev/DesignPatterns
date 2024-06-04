@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oZT+rxvzpPRualOKZuDZzsfgUdKvz26dMGlkYtVspRxKIq/YDR3C9QTa4nxNJncoIzvTjclfNQ8/lg+PuDoOJQ==",
+  "dgSpecHash": "0G6aBrbx6T7NTqOZfVJoORT5tU/91qxLS7d6SK44yKk3JHkQwz4kewfzpSrA9Yj7qD0sFhHsAlIPVEbwRMYNVw==",
   "success": true,
-  "projectFilePath": "/Users/Nikolay.Doychev/Projects/DesignPatterns/FactoryPattern/FactoryPattern.csproj",
+  "projectFilePath": "C:\\Users\\nikolay.doychev\\source\\repos\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
