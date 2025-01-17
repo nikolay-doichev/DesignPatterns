@@ -74,9 +74,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonDependencyInjectio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monostate", "Monostate\Monostate.csproj", "{38380CCA-4F90-4E21-B90F-F44341C43394}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreThreadSingleton", "Pre-ThreadSingleton\PreThreadSingleton.csproj", "{CB97409E-F192-4BDA-9F33-95F6B2DA30CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreThreadSingleton", "Pre-ThreadSingleton\PreThreadSingleton.csproj", "{CB97409E-F192-4BDA-9F33-95F6B2DA30CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmbientContext", "AmbientContext\AmbientContext.csproj", "{E01151A8-57C6-4B2C-BE82-2BFAD3B6ED71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmbientContext", "AmbientContext\AmbientContext.csproj", "{E01151A8-57C6-4B2C-BE82-2BFAD3B6ED71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AdapterDesignPattern", "AdapterDesignPattern", "{9741ED62-2293-48FD-B3AF-CAD15BEB1D2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VektorRasterDemo", "VektorRasterDemo\VektorRasterDemo.csproj", "{F74BE731-D90C-40CF-B08B-303737F2A123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericValueAdapter", "GenericValueAdapter\GenericValueAdapter.csproj", "{D1E82CA1-AAD9-47A9-A40A-EA8E306721AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -192,6 +198,14 @@ Global
 		{E01151A8-57C6-4B2C-BE82-2BFAD3B6ED71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E01151A8-57C6-4B2C-BE82-2BFAD3B6ED71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E01151A8-57C6-4B2C-BE82-2BFAD3B6ED71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74BE731-D90C-40CF-B08B-303737F2A123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74BE731-D90C-40CF-B08B-303737F2A123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74BE731-D90C-40CF-B08B-303737F2A123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74BE731-D90C-40CF-B08B-303737F2A123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E82CA1-AAD9-47A9-A40A-EA8E306721AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E82CA1-AAD9-47A9-A40A-EA8E306721AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E82CA1-AAD9-47A9-A40A-EA8E306721AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E82CA1-AAD9-47A9-A40A-EA8E306721AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -228,6 +242,9 @@ Global
 		{38380CCA-4F90-4E21-B90F-F44341C43394} = {084F7EAC-CF67-4094-89B5-B9EB5D08E2CD}
 		{CB97409E-F192-4BDA-9F33-95F6B2DA30CA} = {084F7EAC-CF67-4094-89B5-B9EB5D08E2CD}
 		{E01151A8-57C6-4B2C-BE82-2BFAD3B6ED71} = {084F7EAC-CF67-4094-89B5-B9EB5D08E2CD}
+		{9741ED62-2293-48FD-B3AF-CAD15BEB1D2A} = {CC267274-22C7-4E5F-9FFC-72CC8950E5E1}
+		{F74BE731-D90C-40CF-B08B-303737F2A123} = {9741ED62-2293-48FD-B3AF-CAD15BEB1D2A}
+		{D1E82CA1-AAD9-47A9-A40A-EA8E306721AA} = {9741ED62-2293-48FD-B3AF-CAD15BEB1D2A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {357E2150-328E-448E-BC64-D22FC3B67466}
